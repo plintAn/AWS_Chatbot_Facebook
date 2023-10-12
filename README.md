@@ -40,6 +40,8 @@ Output
 
 ![AWS_Chatbot_final](https://github.com/plintAn/AWS_Chatbot_Facebook/assets/124107186/900f1867-c3d0-4bd4-8256-647213b1f39f)
 
+Facebook URL(https://www.facebook.com/profile.php?id=61552192654541)
+
 
 배운점
 
