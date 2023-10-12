@@ -36,4 +36,13 @@ Chatbot 구축 - 배포 - 테스트
 - Lex 콘솔에서 로그와 지표를 검토하여 문제나 개선이 필요한 영역을 식별
 - Facebook의 검토 및 승인 프로세스에 따라 Facebook 사용자가 사용할 수 있도록 봇을 배포
 
+Output
+
+![AWS_Chatbot_final](https://github.com/plintAn/AWS_Chatbot_Facebook/assets/124107186/900f1867-c3d0-4bd4-8256-647213b1f39f)
+
+
+배운점
+
+Amazon Lex ChatBot을 Facebook Messenger와 통합하여 반응형 대화 인터페이스를 생성했습니다.
+
 
